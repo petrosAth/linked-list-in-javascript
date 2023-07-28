@@ -17,7 +17,7 @@ node in the list.
 
 ## Tools
 
-- [`nodejs`](https://nodejs.org/): Node.js® is an open-source, cross-platform
+- [`Node.js`](https://nodejs.org/): Node.js® is an open-source, cross-platform
   JavaScript runtime environment
 - [`ESLint`](https://eslint.org/): Linter that statically analyzes the
   JavaScript code to quickly find problems
