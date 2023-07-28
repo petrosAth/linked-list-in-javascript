@@ -1,8 +1,3 @@
-import '../stylesheets/normalize.css';
-import '../stylesheets/typography.css';
-import '../stylesheets/variables.css';
-import '../stylesheets/main.css';
-
 class Node {
   constructor(value = null, nextNode = null) {
     this.value = value;
